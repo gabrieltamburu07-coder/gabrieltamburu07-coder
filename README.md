@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
-
 👋 Olá, eu sou Gabriel Tamburu!
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
