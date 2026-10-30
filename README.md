@@ -1,40 +1,43 @@
-Olá! Eu sou Gabriel Tamburu 👋
+👋 Olá, eu sou Gabriel Tamburu!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
+💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 Jovem Aprendiz na área de Tecnologia da Informação.
+Sou estudante de ADS e Jovem Aprendiz na área de Tecnologia da Informação. Tenho interesse em desenvolvimento de software, programação e novas tecnologias.
 
-🚀 Interessado em desenvolvimento de software e novas tecnologias.
+Estou sempre buscando aprender, aprimorar minhas habilidades e evoluir na área de tecnologia.
 
-👨‍💻 Sobre mim
+⸻
 
-Atualmente curso Análise e Desenvolvimento de Sistemas e trabalho como Jovem Aprendiz em T.I. Estou sempre buscando aprender novas tecnologias, desenvolver minhas habilidades e crescer profissionalmente na área de desenvolvimento.
+🚀 Sobre mim
+
+* 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+* 💼 Jovem Aprendiz em T.I.
+* 💡 Interessado em desenvolvimento de software.
+* 📚 Sempre aprendendo e explorando novas tecnologias.
+* 🎯 Em busca de crescimento profissional na área de tecnologia.
 
 🛠️ Tecnologias e ferramentas
 
-* JavaScript
-* HTML
-* CSS
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-🎯 Objetivo
+🎯 Meu objetivo
 
-Construir minha carreira na área de Tecnologia da Informação, aprimorando meus conhecimentos e conquistando novas oportunidades profissionais.
+Construir minha carreira na Tecnologia da Informação, desenvolver projetos, ampliar meus conhecimentos e conquistar novas oportunidades profissionais.
 
-📫 Contato
+⸻
 
-* GitHub: gabrieltamburu07-coder⁠￼
+📫 Onde me encontrar
 
-<!--
-**gabrieltamburu07-coder/gabrieltamburu07-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 GitHub
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>"A evolução acontece quando nunca paramos de aprender."</i>
+</p>
